@@ -1,1 +1,1 @@
-# parse passes on muzadisk
+# Get tickets from the http://muzadisk.ru/tickets.html
