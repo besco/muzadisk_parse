@@ -1,1 +1,1 @@
-# Get tickets on the http://muzadisk.ru/tickets.html
+# Get tickets from the http://muzadisk.ru/tickets.html
