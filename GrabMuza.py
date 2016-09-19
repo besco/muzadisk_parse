@@ -93,6 +93,4 @@ while end_page == False:
         parsed_event = parse(poster)
         if parsed_event is not None:
             print(parsed_event)
-            pass
-    # print("------------------------------------")
-print(x)
+            # pass
