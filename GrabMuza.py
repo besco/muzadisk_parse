@@ -5,10 +5,6 @@ from datetime import datetime, date, time
 from grab import Grab
 import json
 
-# import logging
-# from pprint import pprint
-# logging.basicConfig(level=logging.DEBUG)
-
 url = "http://www.muzadisk.ru"
 tickets = "/tickets.html"
 
