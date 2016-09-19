@@ -67,6 +67,7 @@ def parse(poster_div):
     event['band'] = values_list[1]
     event['day'] = dates[0]
     event['month'] = months[dates[1]]
+    event['year'] = '2016'
     event['place'] = values_list[3].strip()
     event['addr'] = values_list[4]
     event['price'] = values_list[5]
